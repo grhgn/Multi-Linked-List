@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1490643135 source:d:\tugas\c++\tubesstrukdat\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"DoubleLinkedList.h"
+	"Relasis.h"
+
+1490638770 source:d:\tugas\c++\tubesstrukdat\doublelinkedlist.cpp
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	"DoubleLinkedList.h"
+	"Relasis.h"
+
+1490472924 d:\tugas\c++\tubesstrukdat\doublelinkedlist.h
+	<stdio.h>
+	<iostream>
+
+1490643217 d:\tugas\c++\tubesstrukdat\relasis.h
+	<stdio.h>
+	<iostream>
+	"DoubleLinkedList.h"
+
+1490643217 source:d:\tugas\c++\tubesstrukdat\relasis.cpp
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	"Relasis.h"
+	"DoubleLinkedList.h"
+
+1490923735 source:d:\data kuliah\praktikum\tubesstrukdat\doublelinkedlist.cpp
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	"DoubleLinkedList.h"
+	"Relasis.h"
+
+1490472924 d:\data kuliah\praktikum\tubesstrukdat\doublelinkedlist.h
+	<stdio.h>
+	<iostream>
+
+1490643217 d:\data kuliah\praktikum\tubesstrukdat\relasis.h
+	<stdio.h>
+	<iostream>
+	"DoubleLinkedList.h"
+
+1490939068 source:d:\data kuliah\praktikum\tubesstrukdat\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"DoubleLinkedList.h"
+	"Relasis.h"
+
+1490942657 source:d:\data kuliah\praktikum\tubesstrukdat\relasis.cpp
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	"Relasis.h"
+	"DoubleLinkedList.h"
+
